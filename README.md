@@ -21,3 +21,4 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 - 使用vueuse中cookies、useFullscreen等api
 - 使用nprogress加载导航条
 - 使用gsap库做数字动画
+- 页面优化：骨架屏，优化getinfo多次请求导致首次进入页面较慢
